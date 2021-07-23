@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-## [Overview](#Overview)
-## [Dependancies](#Dependancies)
-## [Setup](#Setup)
+* [Overview](#Overview)
+* [Dependancies](#Dependancies)
+* [Setup](#Setup)
 
 
 ## Overview
