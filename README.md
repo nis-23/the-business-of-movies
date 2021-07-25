@@ -37,5 +37,5 @@ from wrangling the data, exploring it, analyzing it, and uses the analysis to dr
 
 * clone the github repository in the desrired directory.
 * Create a conda environment and install all the dependencies using conda or pip.
-* Activate the environment; navigate to the repo, and type jupyter notebook to open up the repo files in jupyter's server.  
+* Activate the environment; navigate to the repo, and type jupyter notebook to open up the repo files in a jupyter server.  
 
